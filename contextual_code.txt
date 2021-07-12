@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Bootstarp</title>
+<meta charset="utf-8"/>
+<meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+</head>
+
+<body>
+<div class="container">
+	
+	<!-- Contextual class -->
+	<p class="text-muted">Paragraph</p>
+	<p class="text-primary">Paragraph</p>
+	<p class="text-success">Paragraph</p>
+	<p class="text-info">Paragraph</p>
+	<p class="text-warning">Paragraph</p>
+	<p class="text-danger">Paragraph</p>
+	</br>
+	
+	<!-- Contextual Background class -->
+	<p class="bg-primary">Paragraph</p>
+	<p class="bg-success">Paragraph</p>
+	<p class="bg-info">Paragraph</p>
+	<p class="bg-warning">Paragraph</p>
+	<p class="bg-danger">Paragraph</p>
+</div>
+</body>
+</html>

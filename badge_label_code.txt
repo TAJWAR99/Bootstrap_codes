@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Bootstarp</title>
+<meta charset="utf-8"/>
+<meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+</head>
+<body>
+ <div class="container">
+  <!-- Badges -->
+ 
+  <a href="#">Messages<span class="badge">8</span></a>
+  
+  
+  <hr />
+  <button type="button" class="btn btn-primary">Members<span class="badge">10</span></button>
+  
+  
+  <hr />
+  <!-- Label -->
+  <h1>Header<span class="label label-warning">New</span></h1>
+  
+  <hr />
+  
+  <span class="label label-default">Default</span>
+  <span class="label label-danger">New</span>
+  <span class="label label-info">About</span>
+  <span class="label label-success">contact us</span>
+ 
+ 
+ </div>
+</body>
+</html> 

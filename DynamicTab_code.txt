@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Bootstarp</title>
+<meta charset="utf-8"/>
+<meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+ <div class="container">
+  <!-- Dynamic Tabs -->
+  <ul class="nav nav-tabs">
+   <li class="active"><a href="#link1" data-toggle="tab">List1</a></li>
+   <li><a href="#link2" data-toggle="tab">List2</a></li>
+   <li><a href="#link3" data-toggle="tab">List3</a></li>
+   <li><a href="#link4" data-toggle="tab">List4</a></li>
+  </ul>
+
+  <div class="tab-content">
+	   <div id="link1" class="tab-pane fade in active">
+		<h3>Link1</h3>
+		   content
+	   </div>
+	   <div id="link2" class="tab-pane fade">
+		<h3>Link2</h3>
+		   content
+	   </div>
+	   <div id="link3" class="tab-pane fade">
+		<h3>Link3</h3>
+		   content
+	   </div>
+	   <div id="link4" class="tab-pane fade">
+		<h3>Link4</h3>
+		   content
+	   </div>
+  
+  </div> 
+  </br>
+  <!-- Dynamic Pills -->
+  <ul class="nav nav-pills">
+   <li class="active"><a href="#link1" data-toggle="pill">List1</a></li>
+   <li><a href="#link2" data-toggle="pill">List2</a></li>
+   <li><a href="#link3" data-toggle="pill">List3</a></li>
+   <li><a href="#link4" data-toggle="pill">List4</a></li>
+  </ul>
+
+  <div class="tab-content">
+	   <div id="link1" class="tab-pane fade in active">
+		<h3>Link1</h3>
+		   content
+	   </div>
+	   <div id="link2" class="tab-pane fade">
+		<h3>Link2</h3>
+		   content
+	   </div>
+	   <div id="link3" class="tab-pane fade">
+		<h3>Link3</h3>
+		   content
+	   </div>
+	   <div id="link4" class="tab-pane fade">
+		<h3>Link4</h3>
+		   content
+	   </div>
+  
+  </div>
+ </div>
+
+</body>
+</html> 
